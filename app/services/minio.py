@@ -1,0 +1,1 @@
+# Minio service for example
